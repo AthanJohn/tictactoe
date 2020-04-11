@@ -1,4 +1,4 @@
 # tictactoe
-Game tic tac toe
+Game tic-tac-toe implemented in Python
 
-A simple python code for tic tac toe game.
+Complile: python tictactoe.py
