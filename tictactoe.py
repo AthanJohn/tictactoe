@@ -52,7 +52,7 @@ def pl_move(player):
     """
 
     print("It's Player {}'s turn".format(player))
-    box = int(input('Where do you want to put your symbol? '))
+    box = int(input('Where do you want to put your symbol??? '))
     while (box not in range(1,10)) or (box  in alr_pl):
         if box not in range(1,10):
             print('\n')
